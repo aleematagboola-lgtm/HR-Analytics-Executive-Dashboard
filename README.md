@@ -112,7 +112,6 @@ Using "-" clearly indicates that the first name is missing while preserving the 
 
 # Executive Insights & Key Findings
 
-# HR Analytics Insights
 
 The organization has a total workforce of **150 employees**, with **116 active employees** and **34 employees who have exited** the organization. This results in an overall **attrition rate of 22.67%**
 
