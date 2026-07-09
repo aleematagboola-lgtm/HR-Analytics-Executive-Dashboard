@@ -112,70 +112,56 @@ Using "-" clearly indicates that the first name is missing while preserving the 
 
 # Executive Insights & Key Findings
 
-**Workforce Profile**
+# HR Analytics Insights
 
-a. The organisation has a total workforce of 150 employees across six departments.
+The organization has a total workforce of **150 employees**, with **116 active employees** and **34 employees who have exited** the organization. This results in an overall **attrition rate of 22.67%**
 
-b. The Information Technology (IT) department has the largest number of employees, followed by Sales and Operations.
+The workforce has an **average salary of 83,603.94**, suggesting a competitive compensation structure across the organization. However, salary alone does not appear to be sufficient to retain employees, as the attrition rate remains relatively high.
 
-c. Finance has the smallest workforce.
+Employees have an **average tenure of approximately 6years**, indicating that the organization retains a relatively experienced workforce. 
 
-**Compensation & Financial Analysis**
+Departmental analysis reveals significant differences in employee retention. The **Operations department records the highest attrition rate at 37.93%**, making it the department most affected by employee turnover. This suggests potential challenges related to workload, job satisfaction, management practices, or career progression that should be investigated.
 
-a. The organisation's average salary is $83,604.
+The **Information Technology department** has an attrition rate of **22.22%**, which is consistent with the overall organizational average. Given the competitive nature of the technology labor market, targeted retention strategies may be beneficial.
 
-b. IT has the highest salary expenditure at approximately $3.5 million, reflecting both its larger workforce and higher overall payroll.
+On the other hand, **Human Resources (16.67%)**, **Marketing (15.79%)**, and **Finance (17.65%)** demonstrate comparatively lower attrition rates, indicating stronger employee stability within these departments.
 
-c. Sales and Operations are the next largest salary cost centres.
+Compensation also varies across departments. **Finance** has the highest average salary, while **Operations** has one of the lowest average salaries alongside the highest attrition rate. This relationship may suggest that compensation could be contributing to turnover within Operations.
 
-d. Finance has the lowest salary expenditure at just over $1.5 million.
-
-**Bonus Distribution**
-
-The relationship between bonus allocation and employee performance shows a generally healthy pattern. Most bonuses are awarded to employees rated as Achieving and Exceeding expectations.
-
-However, it may be worthwhile to review whether employees rated as Outstanding are receiving rewards that appropriately reflect their level of performance.
-
-**Retention & Attrition Analysis**
-
-One of the most important findings from the analysis is the organisation's 22.67% attrition rate.
-
-In HR analytics, an attrition rate above 15% often indicates potential retention challenges that should be investigated.
-
-**Departmental Attrition**
-
-a. Finance and Human Resources have the highest attrition rates relative to their department sizes.
-
-b. Although Operations has a slightly lower attrition rate, its larger workforce means the department contributes a significant number of employees leaving the organisation.
-
-**Performance of Employees Who Left**
-
-Using the Employment Status (Left) slicer together with the Performance by Status chart shows that many employees who left were performing at stable or high levels.
-This suggests the organisation is losing valuable talent rather than only low-performing employees.
-
-**Employee Tenure**
-
-a. The average employee stays with the organisation for approximately 6 years.
-
-b. The Employee by Service Year chart shows noticeable peaks around Year 4 and Year 9.
-
-This suggests that employees who remain beyond their early years are likely to stay longer, but there are noticeable points where employees tend to leave. These patterns indicate opportunities to strengthen retention efforts around Years 3–4 and again around Year 8 before employees reach these transition points.
+Overall, the analysis indicates that the organization should prioritize employee retention initiatives, particularly within the Operations department. Conducting exit interviews, reviewing compensation and benefits, strengthening employee engagement programs, and providing clearer career development opportunities could help reduce turnover and improve workforce stability.
 
 # Recommendations
 
-Based on the findings from the analysis, the following actions are recommended:
 
-**Target HR and Finance Retention**
+Based on the findings from the HR analytics report, the following recommendations are proposed to improve employee retention, strengthen workforce stability, and support organizational performance:
 
-a. Conduct stay interviews and employee engagement or culture assessments within the HR and Finance departments to better understand the reasons behind their higher attrition rates.
+1. **Prioritize Retention in the Operations Department**
+   The Operations department has the highest attrition rate (37.93%), making it the most critical area for intervention. Management should conduct employee surveys, stay interviews, and exit interviews to identify the underlying causes of turnover and implement targeted retention strategies.
 
-b. Review Operations Employee Experience.
+2. **Review Compensation and Benefits**
+   Although the organization offers a competitive average salary, departments with relatively lower salaries and higher attrition should be assessed to ensure employees are fairly compensated. Benchmarking salaries against industry standards and introducing performance-based incentives may help improve employee retention.
 
-c. Since Operations represents both a large workforce and a significant salary investment, review compensation, bonus structures, workload, and work-life balance to ensure they remain competitive.
+3. **Strengthen Career Development Opportunities**
+   Employees are more likely to remain with an organization when they see opportunities for growth. Establishing structured career progression plans, mentorship programs, leadership development initiatives, and regular training can improve employee engagement and reduce voluntary turnover.
 
-**Strengthen Mid-Career Development**
+4. **Enhance Employee Engagement and Well-being**
+   Regular employee engagement surveys should be conducted to monitor job satisfaction and identify workplace concerns early. Promoting work-life balance, recognizing employee achievements, and supporting employee well-being can foster a more positive work environment.
 
-a. Introduce clearer career progression opportunities, development programmes, and retention initiatives around Years 3–4 and Year 8 to reduce employee turnover during these critical periods.
+5. **Improve Performance and Talent Management**
+   Managers should conduct regular performance reviews, provide constructive feedback, and create personalized development plans. Recognizing high-performing employees and providing clear career pathways can increase motivation and reduce the likelihood of employee exits.
+
+6. **Monitor Attrition Trends Regularly**
+   HR should develop an interactive dashboard to track key workforce metrics such as attrition rate, headcount, average tenure, and employee demographics. Regular monitoring will enable management to identify emerging trends and make proactive, data-driven decisions.
+
+7. **Conduct Workforce Planning and Succession Planning**
+   Identifying critical roles and preparing successors for key positions will reduce operational disruptions caused by employee departures. Effective workforce planning also helps ensure the organization has the right talent to meet future business needs.
+
+8. **Promote a Positive Organizational Culture**
+   Building an inclusive, supportive, and collaborative workplace culture can significantly improve employee satisfaction and loyalty. Encouraging open communication, recognizing employee contributions, and providing supportive leadership can strengthen employee commitment to the organization.
+
+## Conclusion
+
+The HR analytics findings indicate that while the organization has a stable and experienced workforce, the overall attrition rate of 22.67% presents an opportunity for improvement. By focusing on employee retention, particularly within the Operations department, investing in employee development, enhancing engagement initiatives, and continuously monitoring workforce metrics, the organization can reduce turnover, improve employee satisfaction, and strengthen long-term organizational performance.
 
 ## 📂 Project Files & Access
 
