@@ -134,28 +134,28 @@ Overall, the analysis indicates that the organization should prioritize employee
 
 Based on the findings from the HR analytics report, the following recommendations are proposed to improve employee retention, strengthen workforce stability, and support organizational performance:
 
-1. **Prioritize Retention in the Operations Department**
+1. **Prioritize Retention in the Operations Department:**
    The Operations department has the highest attrition rate (37.93%), making it the most critical area for intervention. Management should conduct employee surveys, stay interviews, and exit interviews to identify the underlying causes of turnover and implement targeted retention strategies.
 
-2. **Review Compensation and Benefits**
+2. **Review Compensation and Benefits:**
    Although the organization offers a competitive average salary, departments with relatively lower salaries and higher attrition should be assessed to ensure employees are fairly compensated. Benchmarking salaries against industry standards and introducing performance-based incentives may help improve employee retention.
 
-3. **Strengthen Career Development Opportunities**
+3. **Strengthen Career Development Opportunities:**
    Employees are more likely to remain with an organization when they see opportunities for growth. Establishing structured career progression plans, mentorship programs, leadership development initiatives, and regular training can improve employee engagement and reduce voluntary turnover.
 
-4. **Enhance Employee Engagement and Well-being**
+4. **Enhance Employee Engagement and Well-being:**
    Regular employee engagement surveys should be conducted to monitor job satisfaction and identify workplace concerns early. Promoting work-life balance, recognizing employee achievements, and supporting employee well-being can foster a more positive work environment.
 
-5. **Improve Performance and Talent Management**
+5. **Improve Performance and Talent Management:**
    Managers should conduct regular performance reviews, provide constructive feedback, and create personalized development plans. Recognizing high-performing employees and providing clear career pathways can increase motivation and reduce the likelihood of employee exits.
 
-6. **Monitor Attrition Trends Regularly**
+6. **Monitor Attrition Trends Regularly:**
    HR should develop an interactive dashboard to track key workforce metrics such as attrition rate, headcount, average tenure, and employee demographics. Regular monitoring will enable management to identify emerging trends and make proactive, data-driven decisions.
 
-7. **Conduct Workforce Planning and Succession Planning**
+7. **Conduct Workforce Planning and Succession Planning:**
    Identifying critical roles and preparing successors for key positions will reduce operational disruptions caused by employee departures. Effective workforce planning also helps ensure the organization has the right talent to meet future business needs.
 
-8. **Promote a Positive Organizational Culture**
+8. **Promote a Positive Organizational Culture:**
    Building an inclusive, supportive, and collaborative workplace culture can significantly improve employee satisfaction and loyalty. Encouraging open communication, recognizing employee contributions, and providing supportive leadership can strengthen employee commitment to the organization.
 
 ## Conclusion
