@@ -1,7 +1,7 @@
 # HR-Analytics-Executive-Dashboard
 An interactive HR Analytics Dashboard built in Excel, featuring data cleaning, transformation, and executive-level retention insights.
 
-![HR Executive Dashboard](Executive_Dashboard.png)
+![HR Executive Dashboard](executive_dashboard.png)
 
 # Data Cleaning & Transformation Documentation
 
